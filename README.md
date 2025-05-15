@@ -74,7 +74,3 @@ Figma streamlines the entire design process — from wireframing to final UI —
 - **Balsamiq:** Great for quick, low-fidelity sketches.
 - **Sketch:** Popular for macOS users creating detailed designs.
 - **Adobe XD:** Offers design and prototyping features with Adobe ecosystem integration.
-
----
-
-Feel free to clone this repo and explore the wireframing process with real examples and tools.
